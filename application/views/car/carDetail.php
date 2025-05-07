@@ -57,7 +57,7 @@
                         <h2 style="user-select: auto;">
                             <b>
                                 Tel : 081-xxxxxxxxx <br>
-                                Line : @RCS
+                                Line : @CRS
                             </b>
                         </h2>
                     </div>

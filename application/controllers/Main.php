@@ -3,7 +3,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 /**
  * CRS System
  *
- * @see       https://github.com/ryurewsss/RCS The Car Rental System project
+ * @see       https://github.com/ryurewsss/CRS The Car Rental System project
  * 
  * @author    Sirapop Koonsinchai (ryurewsss) <rewsirapop@gmail.com>
  * @author    Tiwa Singhaphaisarn (Bryantz) <61160059@go.buu.ac.th>

@@ -66,6 +66,6 @@ $type = array(
 $contact = array(
     'email' => 'carrentsystemSE8@gmail.com',
     'tel' => '080-942-5365',
-    'line' => '@RCS'
+    'line' => '@CRS'
 )
 ?>
