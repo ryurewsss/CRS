@@ -252,10 +252,11 @@ CREATE TABLE `crs_user` (
 --
 
 INSERT INTO `crs_user` (`user_id`, `user_type_id`, `user_email`, `user_password`, `user_fname`, `user_lname`, `user_phone`, `user_image`, `create_date`, `update_date`, `user_create_id`, `user_update_id`) VALUES
-(1, 1, 'rewsirapop@gmail.com', '$2y$10$Rl73nMUKaOFGoE9k7vpEtOYL21FJpMmeLUsWT49eciWDzy99rFrUe', 'Sirapop', 'Koonsinchai', '0809425365', '5ebbaa1dedc5d_thumb900.jpg', '2022-01-06 11:23:14', '2022-03-15 22:35:20', 1, 1),
+(1, 1, 'rewsirapop@gmail2.com', '$2y$10$Rl73nMUKaOFGoE9k7vpEtOYL21FJpMmeLUsWT49eciWDzy99rFrUe', 'Sirapop', 'Koonsinchai', '0809425365', '5ebbaa1dedc5d_thumb900.jpg', '2022-01-06 11:23:14', '2025-05-07 17:09:11', 1, 1),
 (2, 3, 'tiwaza13@gmail.com', '$2y$10$A1F5iYn39ogCH/Kyi3oTjOYbMpTggw5X1ETsz8joyOwHG.wXGAw7O', 'Tiwa', 'Singsong', '0817711410', NULL, '2022-01-26 14:31:17', '2022-03-17 17:21:42', 0, 0),
 (3, 3, '61160076@go.buu.ac.th', '$2y$10$HIQDSNUqsB/IazU0rPITieDkhJsOaIgcVM3FTzECTN.FwN1qPwWHG', 'Sirapop', 'Koonsin', '0809425365', '300px-Scared_Hamster.jpg', '2022-01-31 16:26:40', '2022-03-15 16:18:56', 0, 3),
-(4, 2, 'ryu_sirapop@hotmail.com', '$2y$10$EovsuoeJNFC8tn/IIIAhOuoGzgyaheEakKSsOkcBqwgCHvpO7vU2G', 'คูณสินชัย', 'สิรภพ', '0819974412', NULL, '2022-03-18 14:03:52', '2022-03-20 18:00:33', 0, 4);
+(4, 2, 'ryu_sirapop@hotmail.com', '$2y$10$EovsuoeJNFC8tn/IIIAhOuoGzgyaheEakKSsOkcBqwgCHvpO7vU2G', 'คูณสินชัย', 'สิรภพ', '0819974412', NULL, '2022-03-18 14:03:52', '2022-03-20 18:00:33', 0, 4),
+(5, 1, 'rewsirapop@gmail.com', '$2y$10$pj9bEuig1d8Ww9Px9rIzMOE.W7hag2Xpjyy9ZdTk6ZymIfVRpx8wK', 'Sirapop', 'p:admin!@1234', '0809425365', 'ฟองบุ๋ง.jpg', '2025-05-07 17:09:16', '2025-05-07 17:12:27', 1, 5);
 
 -- --------------------------------------------------------
 
